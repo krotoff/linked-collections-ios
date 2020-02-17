@@ -1,0 +1,98 @@
+{
+  "products" : [
+    {
+      "ID" : "38",
+      "image" : "images/xfc62ad09dd3095e106c73ac7bfb600e6.jpg",
+      "currency_id" : "RUR",
+      "price" : "100",
+      "name" : "Cream Lip Stain Metal №110 Blazing Sun",
+      "vendor" : "SEPHORA COLLECTION",
+      "color" : "564433"
+    },
+    {
+      "ID" : "40",
+      "image" : "images/x2b354c6a14d175c6f7166fb48c8c7d41.jpg",
+      "currency_id" : "USD",
+      "price" : "10",
+      "name" : "Cream Lip Stain Liquid Lipstick 106 Sun Stone",
+      "vendor" : "SEPHORA COLLECTION",
+      "color" : "562133"
+    },
+    {
+      "ID" : "41",
+      "image" : "images/x6cb871d23e7166b62da5acee60e0b50c.jpg",
+      "currency_id" : "RUR",
+      "price" : "999",
+      "name" : "Cream Lip Stain Metal №107 Vibrant Rosewood",
+      "vendor" : "SEPHORA COLLECTION",
+      "color" : "124433"
+    },
+    {
+      "ID" : "43",
+      "image" : "images/xfd08341058209ffc7d54dd520804f264.jpg",
+      "currency_id" : "RUR",
+      "price" : "1999",
+      "name" : "Cream Lip Stain Liquid Lipstick 111 Smoky Quartz",
+      "vendor" : "SEPHORA COLLECTION",
+      "color" : "113322"
+    },
+    {
+      "ID" : "45",
+      "image" : "images/x211e4039f73e32637918ca3dd7246305.jpg",
+      "currency_id" : "RUR",
+      "price" : "799",
+      "name" : "Born This Way Foundation Snow",
+      "vendor" : "Too Faced",
+      "color" : "454433"
+    },
+    {
+      "ID" : "46",
+      "image" : "images/x741bc8d3bf4ddf3b80e2f731fb0f6b2e.jpg",
+      "currency_id" : "RUR",
+      "price" : "655",
+      "name" : "Cream Lip Stain Metal №113 Desert Rose",
+      "vendor" : "SEPHORA COLLECTION",
+      "color" : "564433"
+    },
+    {
+      "ID" : "47",
+      "image" : "images/x03d6dc9d08628471863690692692d6ef.jpg",
+      "currency_id" : "RUR",
+      "price" : "899",
+      "name" : "Cream Lip Stain Metal №114 Poisonous Kiss",
+      "vendor" : "SEPHORA COLLECTION"
+    },
+    {
+      "ID" : "48",
+      "image" : "images/xbc143e975a0d686b51be40949e825366.jpg",
+      "currency_id" : "USD",
+      "price" : "14.99",
+      "name" : "Cream Lip Stain Liquid Lipstick 115 Fancy Peach",
+      "vendor" : "SEPHORA COLLECTION"
+    },
+    {
+      "ID" : "49",
+      "image" : "images/x211e4039f73e32637918ca3dd7246305.jpg",
+      "currency_id" : "USD",
+      "price" : "99",
+      "name" : "Born This Way Foundation Swan",
+      "vendor" : "Too Faced"
+    },
+    {
+      "ID" : "50",
+      "image" : "images/x211e4039f73e32637918ca3dd7246305.jpg",
+      "currency_id" : "USD",
+      "price" : "45",
+      "name" : "Born This Way Foundation Vanilla",
+      "vendor" : "Too Faced"
+    },
+    {
+      "ID" : "51",
+      "image" : "images/xa60fcedb21dcae9c9bcddecea66a1dac.jpg",
+      "currency_id" : "RUR",
+      "price" : "5800",
+      "name" : "Cream Lip Stain Metal №116 Galactic Blue",
+      "vendor" : "SEPHORA COLLECTION"
+    }
+  ]
+}
